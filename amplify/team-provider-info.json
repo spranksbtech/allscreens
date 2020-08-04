@@ -1,15 +1,15 @@
 {
     "prod": {
         "awscloudformation": {
-            "AuthRoleName": "amplify-allscreens-prod-205040-authRole",
-            "UnauthRoleArn": "arn:aws:iam::599909761920:role/amplify-allscreens-prod-205040-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::599909761920:role/amplify-allscreens-prod-205040-authRole",
+            "AuthRoleName": "amplify-allscreens-prod-192926-authRole",
+            "UnauthRoleArn": "arn:aws:iam::599909761920:role/amplify-allscreens-prod-192926-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::599909761920:role/amplify-allscreens-prod-192926-authRole",
             "Region": "us-east-1",
-            "DeploymentBucketName": "amplify-allscreens-prod-205040-deployment",
-            "UnauthRoleName": "amplify-allscreens-prod-205040-unauthRole",
-            "StackName": "amplify-allscreens-prod-205040",
-            "StackId": "arn:aws:cloudformation:us-east-1:599909761920:stack/amplify-allscreens-prod-205040/2b700280-d1dd-11ea-8737-1211ae29fc7a",
-            "AmplifyAppId": "dtabvhb9jyddm"
+            "DeploymentBucketName": "amplify-allscreens-prod-192926-deployment",
+            "UnauthRoleName": "amplify-allscreens-prod-192926-unauthRole",
+            "StackName": "amplify-allscreens-prod-192926",
+            "StackId": "arn:aws:cloudformation:us-east-1:599909761920:stack/amplify-allscreens-prod-192926/cfaa1cf0-d688-11ea-a683-0abf94ca9997",
+            "AmplifyAppId": "dbij40jujl2gj"
         },
         "categories": {
             "auth": {
@@ -28,10 +28,10 @@
             },
             "xr": {
                 "VirtualTutor": {
-                    "url": "https://sumerian.us-east-1.amazonaws.com/20180801/projects/Drafts-assumed-role%2FCrossAccountSignin%2Fcyrus/release/authTokens?sceneId=6ee1bb051bfe4cd59c39a22f4affd16c.scene",
-                    "sceneId": "6ee1bb051bfe4cd59c39a22f4affd16c.scene",
+                    "url": "https://sumerian.us-east-1.amazonaws.com/20180801/projects/Drafts-user%2Fsprank/release/authTokens?sceneId=5ba33aecba834ad2b4a104ef0e668d15.scene",
+                    "sceneId": "5ba33aecba834ad2b4a104ef0e668d15.scene",
                     "region": "us-east-1",
-                    "projectName": "Drafts-assumed-role/CrossAccountSignin/cyrus"
+                    "projectName": "Drafts-user/sprank"
                 }
             }
         }
